@@ -1,5 +1,4 @@
-# Proyecto Node.js
-
+# NodeJs Boilerplate
 Este proyecto es una aplicación Node.js que sigue una arquitectura modular y utiliza camelCase para nombrar las variables.
 
 ## Iniciar el proyecto
